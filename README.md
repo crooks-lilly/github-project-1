@@ -1,7 +1,14 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: October 17, 2023
+- Facilitator: Madelyn Kapfhammer
+- Name: Cameron Rooks
+
+_italics_
+
+**bold**
+
+
 
 ## Class Resources
 
